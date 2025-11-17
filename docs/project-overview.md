@@ -159,5 +159,3 @@ This project was designed, built, and documented by:
 **Mohammed Jahangir**
 GitHub: **[@pingjahangir](https://github.com/pingjahangir)**
 Trainee Engineer – Guidsoft Technologies Pvt. Ltd.
-
----
