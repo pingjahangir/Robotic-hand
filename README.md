@@ -1,4 +1,4 @@
-# **Robotic Hand – Remote VLSI Inspection Assistive Device**
+# **Robotic Hand**
 
 ### *By Mohammed Jahangir (GitHub: **pingjahangir**) — Trainee Engineer, Guidsoft Technologies Pvt. Ltd.*
 
