@@ -6,6 +6,10 @@ This repository showcases a humanoid **robotic hand prototype** designed and dev
 
 The project replicates human finger motion using **flex sensors**, **servo motors**, and a fully **3D-printed InMoov-based** mechanical hand.
 
+<p align="center">
+  <img src="media/images/pingjahangir-robotic-hand-full-view.png" alt="Robotic Hand by pingjahangir" width="80%">
+</p>
+
 ---
 
 ## 🚀 **Project Overview**
